@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(230, 193, 173),rgb(197, 230, 173);
+  }
+
+button{
+  position: absolute;
+  margin-top: 20%;
+  left: 44%;
+  width: 10%;
+  padding: 8px;
+}
